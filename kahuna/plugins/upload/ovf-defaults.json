@@ -1,0 +1,16 @@
+{
+    "name": "Kahuna uploaded template",
+    "cpu": 1,
+    "ram": 1024,
+    "description": "",
+    "icon": "",
+    "ostype": "OTHER",
+    "osversion": "",
+    "osdescription": "",
+    "user": "abiquo",
+    "password": "abiquo",
+    "ramunits": "MEGABYTE",
+    "diskcontroller": "IDE",
+    "diskformat": "UNKNOWN",
+    "ethernetdriver": "E1000"
+}

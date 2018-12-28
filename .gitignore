@@ -1,0 +1,9 @@
+*.pth
+.project
+*.class
+*.pyc
+*.swp
+*.tmp
+catalina.base_IS_UNDEFINED
+target/
+
